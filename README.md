@@ -1,15 +1,21 @@
 # Intelligent-Patient-Helper
-Intelligent-Patient-Helper
-
+A health care system to provide the ability to send an alert from a patient who has a sudden situation to his/her guardian's Smartphone. Implemented using a temperature sensor, heart rate, and a sender/receiver unit, the sender/receiver unit can be connected to the Smartphone using WIFI technology, and when the patient temperature change, the sensor sends the value to the sender/receiver unit then to the Smartphone.
 
 
 #include <ESP8266WiFi.h>
+
 #include <FirebaseArduino.h>
+
 #ifndef STASSID
+
 #define STASSID "Maymona’s iPhone"
+
 #define STAPSK  "jojokimmimi"
-#define FIREBASE_HOST "iphfirebaseproject-6d036.firebaseio.com"        // the project name address from firebase id
-#define FIREBASE_AUTH "qX3DdHqCLWeEvIDUoTAvlcpRNCl82nsuJOOwIqoL"       // the secret key generated from firebase
+
+#define FIREBASE_HOST "iphfirebaseproject-6d036.****888"        // the project name address from firebase id
+
+#define FIREBASE_AUTH "qX3DdHqCLWeEvIDUoTAvlcpRNC**************"       // the secret key generated from firebase
+
 #endif
 
 int outputpin= A0;
