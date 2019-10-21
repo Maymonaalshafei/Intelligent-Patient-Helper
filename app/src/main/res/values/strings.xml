@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntelligentPatientHelper</string>
+    <string name="temperature">Temperature</string>
+    <string name="heartRate">HeartRate</string>
+</resources>

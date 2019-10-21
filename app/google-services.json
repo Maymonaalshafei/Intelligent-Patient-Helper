@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "354841717193",
+    "firebase_url": "https://iphfirebaseproject-6d036.firebaseio.com",
+    "project_id": "iphfirebaseproject-6d036",
+    "storage_bucket": "iphfirebaseproject-6d036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354841717193:android:ba07b43c8edba9092c2018",
+        "android_client_info": {
+          "package_name": "com.springmay.intelligentpatienthelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354841717193-lb5al69tifckmhfpnnsdes540skh46h9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.springmay.intelligentpatienthelper",
+            "certificate_hash": "a5e8c324599440cfb07732d505ddf64c39777410"
+          }
+        },
+        {
+          "client_id": "354841717193-5qhq85qs97tdg5klog6nebdf3j12nke6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC747xl9HggG66l_0Bel5cVUyEwXfUBAlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354841717193-5qhq85qs97tdg5klog6nebdf3j12nke6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

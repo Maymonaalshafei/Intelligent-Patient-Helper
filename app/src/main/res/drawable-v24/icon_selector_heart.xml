@@ -1,0 +1,4 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ic_heart_rate_colored" android:state_checked="true"/>
+    <item android:drawable="@drawable/ic_heart_rate" android:state_checked="false"/>
+</selector>
