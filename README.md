@@ -6,8 +6,12 @@ the sender/receiver unit can be connected to the Smartphone using WIFI technolog
 and when the patient temperature change, the sensor sends the value to the sender/receiver unit then to the Smartphone.
 
 temerature sensor :LM35.
+
 sender/receiver unit: Arduino nodeMCU.
+
 Smart phones with the app that provided in this project.
+
+
 
 ////////////////////////////////////////////////ARDUINO CODE //////////////////////////////////////////////////
 /
